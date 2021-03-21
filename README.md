@@ -3,7 +3,7 @@
 ## Callback
 
 ```c 
-OnPlayerHackTeleport(playerid)
+OnPlayerHackTeleport(playerid, Float:distance)
 ```
 - This callback used to detected player hack teleport.
 ```c 
